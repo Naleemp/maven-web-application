@@ -96,7 +96,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>NaleempInfoTech Releases Nexus Repository</name>
 	      <url> http://172.31.18.29:8081/repository/ebay-bts-releases/</url>
 	    </repository>
 	    
