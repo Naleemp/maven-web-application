@@ -4,28 +4,24 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>NaleempInfoTech Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+<h1 align="center">Welcome to NaleempInfoTech.</h1>
+<h2 align="center"> We are training future Gambian DevOps Engineer.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="200">
+		<img src="" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		INaleempnfoTech, 
+		Central America,Guatemala		
+		simonpeter@nalempinfotech.com 
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="simonpeter@nalempinfotech.com ">Mail to NaleempInfoTech</a>
 	</span>
 </div>
 <hr>
@@ -33,7 +29,7 @@
 <hr>
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">NaleempInfoTech</a> </small></p>
 
 </body>
 </html>
