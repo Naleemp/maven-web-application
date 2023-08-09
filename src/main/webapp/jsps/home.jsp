@@ -10,14 +10,15 @@
 </head>
 <body>
 <h1 align="center">Welcome to NaleempInfoTech.</h1>
-<h2 align="center"> We are training future Gambian DevOps Engineer.</h2>
+<h2 align="center"> This is containerize application deployed by Gambian DevOps Engineers.</h2>
+<h2 align="center"> Look out for this pool of experts in the next few months.We will be marking an impact in our society.</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		INaleempnfoTech, 
+		NaleempInfoTech, 
 		Central America,Guatemala		
 		simonpeter@nalempinfotech.com 
 		<br>
